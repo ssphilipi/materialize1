@@ -1,0 +1,39 @@
+body, html {
+  height 100%;
+}
+
+body {
+  background-image: url(img/background/record-player.jpg);
+
+  height: 100%;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+li {
+  display: inline;
+  float: right;
+  font-family: 'Dosis', sans-serif;
+}
+
+a {
+  display: block;
+  padding: 8px;
+}
+
+.row{
+  margin-top: 75vh;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+span {
+  font-size: 1.5em;
+}
+
+.page-footer{
+  margin-top: 50%;
+}
