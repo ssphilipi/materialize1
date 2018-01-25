@@ -24,7 +24,7 @@ a {
   padding: 8px;
 }
 
-.row{
+#rowhite{
   margin-top: 75vh;
   padding-top: 5%;
   padding-bottom: 5%;
@@ -32,8 +32,9 @@ a {
 
 span {
   font-size: 1.5em;
+  font-family: 'Dosis', sans-serif;
 }
 
 .page-footer{
-  margin-top: 50%;
+  margin-top: 40%;
 }
